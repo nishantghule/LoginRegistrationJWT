@@ -11,4 +11,4 @@ public class LoginRegistartionJwtApplication {
 	}
 
 }
-//for commit
+//for new commit 
